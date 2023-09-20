@@ -11,4 +11,5 @@ Some photos:
 ![3](photos/3.jpg)
 
 ## Copyright
-&copy; 2023 G2Labs Grzegorz Grzęda
+CC-BY 4.0
+Created by G2Labs Grzegorz Grzęda
